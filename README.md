@@ -1,4 +1,4 @@
-# Service Section
-### This design is inspired by this [video](https://youtu.be/HGF2MNXJzDI), which belongs to [Easy Tutorials](https://www.youtube.com/@EasyTutorialsVideo).
+# Services Section
+### This design is inspired by the work of [Easy Tutorials](https://www.youtube.com/@EasyTutorialsVideo). Click [here](https://youtu.be/HGF2MNXJzDI) to watch the video.
 
 ![preview img](/preview.png)
